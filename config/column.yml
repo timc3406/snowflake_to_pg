@@ -1,0 +1,9 @@
+table:
+  - tchang.account_test
+columns:
+  - additional_paid_collections
+  - application
+  - approvaldate_masked
+
+constraint_key:
+  - account_pkey
